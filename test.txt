@@ -10,4 +10,9 @@ https://githowto.com/commiting_changes
 
 :wq and hit Enter.
 
- 
+ git push -u origin main
+
+git remote add origin https://github.com/lanngoc10a/GH-demo.git
+git branch -M main
+git push -u origin main
+er det on
