@@ -1,0 +1,4 @@
+$git --version
+
+% git add Untitled 2
+% git add 
