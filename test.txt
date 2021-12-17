@@ -16,3 +16,8 @@ git remote add origin https://github.com/lanngoc10a/GH-demo.git
 git branch -M main
 git push -u origin main
 er det on
+
+IF GITHUB THINKGS MASTER IS MAIN
+git checkout main 
+git merge master
+git push --set-upstream origin main
