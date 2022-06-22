@@ -1,12 +1,15 @@
 $git --version
 
+git remote add origin master
+
+
 % git add Untitled 2
 % git add 
 
 C:\Users\nguye\GH-demo\test.txt
-
-
 https://githowto.com/commiting_changes
+
+
 
 :wq and hit Enter.
 
